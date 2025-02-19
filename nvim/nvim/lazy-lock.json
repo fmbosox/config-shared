@@ -1,0 +1,14 @@
+{
+  "asyncomplete-ultisnips.vim": { "branch": "master", "commit": "4cca37143274cc6947ee2d85bbd6dc1bfec5e53e" },
+  "fzf": { "branch": "master", "commit": "fcd2baa9457a6486866a6a52248c43f31e05831a" },
+  "fzf.vim": { "branch": "master", "commit": "6cda389bdea953c9c66a3cfe57e40463ffd61ae9" },
+  "gitsigns.nvim": { "branch": "main", "commit": "fc56fc25cfc3dc3f24266508aa4a7096102eb6a6" },
+  "indent-blankline.nvim": { "branch": "master", "commit": "e10626f7fcd51ccd56d7ffc00883ba7e0aa28f78" },
+  "lazy.nvim": { "branch": "main", "commit": "f15a93907ddad3d9139aea465ae18336d87f5ce6" },
+  "nvim-lspconfig": { "branch": "master", "commit": "696ac53289280a29a349f3e68624e23129341126" },
+  "nvim-treesitter": { "branch": "master", "commit": "824bf8455fd670186986fb3eb46fcaa4c5460949" },
+  "nvim-treesitter-context": { "branch": "master", "commit": "9a49f43a2ec9bf77aecfb0fcbc43af43338375c0" },
+  "ultisnips": { "branch": "master", "commit": "35252b3327bf0cb55136399dfe615637093a8291" },
+  "vim-fugitive": { "branch": "master", "commit": "b068eaf1e6cbe35d1ac100d435cd7f7b74a5c87d" },
+  "which-key.nvim": { "branch": "main", "commit": "0e76a87ac51772569aec678dc74baa8e2a86100c" }
+}
